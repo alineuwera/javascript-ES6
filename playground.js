@@ -27,7 +27,7 @@ const user = { names: "cyuzuzo eric", age: 20, country: "Rwanda" };
 const { names, country } = user;
 console.log(`the name is ${names} and the country is ${country}`);
 
-//////    Array
+//////    Array ////
 
 const arrayOfColors = ["green", "pink", "blue", "white", "black"];
 const [firstColor, secondColor] = arrayOfColors;
@@ -43,7 +43,7 @@ const array = [1, 2, 3, 4, 5, 6];
 const result = sumOfArray(...array);
 console.log(`The sum of an array is ${result}`);
 
-////   To Merge two arrays //////
+////   To Merge two arrays ///////
 
 const array1 = [1, 2, 3];
 const array2 = [4, 5, 6];
